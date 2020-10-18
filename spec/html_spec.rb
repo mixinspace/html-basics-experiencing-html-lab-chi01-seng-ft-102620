@@ -7,10 +7,4 @@ describe "A populated HTML file called my_list.html" do
   end
 end
 
-<ol>
-<li>"Love Will Tear Us Apart"</li>
-<li>"Bela Lugosi's Dead"</li>
-<li>"A Forest"</li>
-<li>"Nine While Nine"</li>
-<li>"Girlfriend In a Coma"</li>
-</ol>
+
